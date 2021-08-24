@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/new_memory"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/new_memory"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/filter_favorite"
+        android:icon="@android:drawable/star_on"
+        android:title="@string/filter_favorite"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/filter_regular"
+        android:icon="@android:drawable/star_off"
+        android:title="@string/filter_regular"
+        app:showAsAction="ifRoom|withText" />
+</menu>

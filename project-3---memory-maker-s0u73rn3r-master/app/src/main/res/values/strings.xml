@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PetHeart</string>
+
+    <string name="memory_title_hint">Enter a title for the memory</string>
+    <string name="memory_title_label">Title</string>
+    <string name="memory_description_label">Description</string>
+    <string name="memory_solved_label">Solved</string>
+    <string name="favorite_switch_text">Favorite</string>
+    <string name="memory_photo_button_description">Take photo of memory</string>
+    <string name="memory_photo_no_image_description">Memory photo (not set)</string>
+    <string name="memory_photo_image_description">Memory photo (set)</string>
+
+    <string name="new_memory">New memory</string>
+    <string name="filter_favorite">Filter by favorite memories</string>
+    <string name="filter_regular">Filter by all memories</string>
+
+    <string name="delete_memory">Delete this memory</string>
+    <string name="send_memory">Send this memory to a friend</string>
+
+    <string name="memory_reminder">Remember %1$s! It happened on %2$s. Remember %3$s!</string>
+    <string name="memory_reminder_subject">Sweet Memories!</string>
+    <string name="send_reminder">Send memory reminder via</string>
+
+
+</resources>
